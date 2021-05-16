@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 4",
+      "price": "662",
+      "quantity": "288",
+      "categoryId": "1",
+      "desc": "Fugit voluptatem a",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/avatar%2Fbalo-mikkor-edwin-2-ac950ffd-afe9-486f-b056-287522f0f0b6.jpg?alt=media&token=39eabfb1-0e26-47bc-9e6a-7cc27e974692",
+      "id": 4,
+      "status": "non_active"
+    },
+    {
+      "name": "Sản phẩm 5",
+      "price": "304",
+      "quantity": "3",
+      "categoryId": "2",
+      "desc": "Fugit voluptatem a",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/avatar%2Fbalo_balos_active_do_tuoi_thumb.png?alt=media&token=8b254173-8119-4fa8-99c3-eebd149ae098",
+      "id": 5,
+      "status": "non_active"
+    },
+    {
+      "name": "Sản phẩm 6",
+      "price": "662",
+      "quantity": "4",
+      "categoryId": "1",
+      "desc": "Fugit voluptatem a",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/avatar%2Fbalo-mikkor-edwin-14.jpg?alt=media&token=9a25ec57-0559-4d79-a172-d1e3348c27db",
+      "id": 6,
+      "status": "non_active"
+    },
+    {
+      "name": "Sản phẩm 9",
+      "price": "900",
+      "quantity": "4",
+      "categoryId": "1",
+      "desc": "Fugit voluptatem a",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/avatar%2Femphasis1_800x800.jpg?alt=media&token=1c1e3911-fb71-4b43-be41-9ae6b1430b0c",
+      "id": 7,
+      "status": "non_active"
+    },
+    {
+      "name": "Sản phẩm 10",
+      "price": "901",
+      "quantity": "8",
+      "categoryId": "2",
+      "desc": "dfdf",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/avatar%2Fbalo-sakos-alpha-8-66a8caba-f916-4497-9d46-30744dd15f60-04b8ccff-4a84-4f37-8d7f-e0b4b35378ac-826b7a2a-1847-4062-a81d-91947933e677.jpg?alt=media&token=d0bdb2aa-9afc-42f9-af23-d6fd2fc139af",
+      "id": 8,
+      "status": "non_active"
+    },
+    {
+      "name": "Sản phẩm 11",
+      "price": "101",
+      "quantity": "634",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/java-910f1.appspot.com/o/avatar%2Fbalo_deuter_up_seoul18.png?alt=media&token=1405ec78-b48d-4897-9169-72894f497386",
+      "categoryId": "2",
+      "desc": "Occaecat eveniet el",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "name": "Balo 1",
+      "id": 1
+    },
+    {
+      "name": "Balo 2",
+      "id": 2
+    }
+  ]
+}
